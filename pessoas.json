@@ -1,0 +1,17 @@
+{
+  "titulo":"cem anos de solidão",
+    "ano_publicacao":1967,
+    "autor":{
+        "nome":"gabriel garcia marquez",
+        "data_nascimento":"1927-03006",
+        "nacionalidade":"colombiana"
+    },
+        "editora":{
+            "nome":"harpecollins",
+            "pais":"estados unidos",
+            "ano_fundacao":1989
+        },
+        "id":1
+    }
+
+    
